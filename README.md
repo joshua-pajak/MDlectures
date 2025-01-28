@@ -1,2 +1,2 @@
 # MDlectures
-A repository for MD lecture materials
+A repository for MD lecture materials.
